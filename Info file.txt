@@ -1,0 +1,9 @@
+database connectivity information
+$dbHost = 'localhost';
+$dbUser = 'root';
+$dbPass = '';
+$dbName = 'reveal';
+
+In Database.sql file all the database have included.
+
+URL of Website: https://revealwithus.000webhostapp.com/index.php
